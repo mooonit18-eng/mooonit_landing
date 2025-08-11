@@ -101,7 +101,7 @@ const Services = forwardRef<HTMLDivElement>((props, ref) => {
       </div>
  <div className="flex flex-col md:flex-row items-center mt-12 gap-8 ml-0 md:ml-12 lg:ml-24 xl:ml-32">
   <img
-    src="assets/happy.jpeg"
+    src="../public/happy.jpg"
     alt="Happy"
     className="h-48 w-auto rounded-lg shadow mb-4 md:mb-0 md:mr-6"
   />

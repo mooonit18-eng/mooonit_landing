@@ -83,7 +83,7 @@ const Header: React.FC<HeaderProps> = ({
       <div className="container mx-auto px-6 py-3 flex justify-between items-center">
     <div className="text-2xl font-bold">
   <img
-    src="assets/logo.jpg"
+    src="../public/logo.jpg"
     alt="Mooonit Logo"
     className="h-20 w-auto mr-3 rounded-lg"
   />

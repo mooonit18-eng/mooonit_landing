@@ -39,11 +39,11 @@ const Footer: React.FC = () => {
         <div className="flex flex-col md:flex-row justify-between items-center text-center md:text-left space-y-8 md:space-y-0">
           {/* Logo and Info */}
           <div className="flex flex-col items-center md:items-start">
-            <img
-              src="assets/logo.jpg"
-              alt="Mooonit Logo"
-              className="h-10 w-auto mb-2"
-            />
+          <img
+    src="/logo.jpg"
+    alt="Mooonit Logo"
+    className="h-20 w-auto mr-3 rounded-lg"
+  />
             <p className="text-sm mt-4 max-w-xs opacity-90">
               {content.footer.tagline}
             </p>
